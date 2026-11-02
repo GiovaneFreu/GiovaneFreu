@@ -12,7 +12,7 @@ Senior Full Stack & DevOps Engineer based in Curitiba, Brazil (UTC-3). I build a
 
 Most of my professional work lives in private company repositories. Public highlights:
 
-- [**loan-system-workspace**](https://github.com/GiovaneFreu/loan-system-workspace): loan management system as an Nx monorepo with Angular 21 and NestJS 11, shared TypeScript contracts, Jest and Playwright tests, Docker deployment ([live demo](https://annoyed-magdaia-gfservicos-2b87a1c1.koyeb.app/)).
+- [**loan-system-workspace**](https://github.com/GiovaneFreu/loan-system-workspace): loan management system as an Nx monorepo with Angular 21 and NestJS 11, shared TypeScript contracts, Jest and Playwright tests, Docker image deployed on Google Cloud Run ([live demo](https://loan-system-121742301150.us-central1.run.app/)).
 - [**supplier-management-system**](https://github.com/GiovaneFreu/supplier-management-system): supplier management app with React 19, TypeScript, Zustand and TanStack Table, with Excel/CSV/JSON export, deployed on Vercel ([live demo](https://supplier-management-system-virid.vercel.app)).
 
 ### Contact
